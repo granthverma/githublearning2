@@ -1,16 +1,18 @@
+
 one function - i have added a very very important function here
+
+
+
+one function - i  2have added a very very important function here
+
 twofunction - i have added another very important function here
 threefunction - I have added unnecessary function
-
 
 
 added a chart function in our branch
 
 
-added a code for doing logout 
-b unidnci
 
 
 
 
-adding a new function to login user via y method
